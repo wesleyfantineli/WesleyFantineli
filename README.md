@@ -13,6 +13,7 @@
   <img align="center" alt="wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="wesley-Rc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="right" alt="wesley-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMQ0unukHTC3SuTvS-qHBQAh-xTdWWvnooqtKiBbRdxBtauOs_hy7oEt36YvMrNAs1Fc&usqp=CAU" style="width=676&height=676">
 </div>
 
