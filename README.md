@@ -1,6 +1,6 @@
 ### Wesley Fantineli ###
 
-- 🌱 Estudando REACT & JAVASCRIPT
+- 🌱 Estudando REACT
 
 <div align="center">
   <a href="https://github.com/wesleyfantineli">
