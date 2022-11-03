@@ -1,6 +1,6 @@
 ### Wesley Fantineli ###
 
-- 🌱 Estudando HTML CSS e Javascrip
+- 🌱 Estudando REACT & JAVASCRIPT
 
 <div align="center">
   <a href="https://github.com/wesleyfantineli">
